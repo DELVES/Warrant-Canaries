@@ -1,0 +1,87 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+
+
+DELVES MEDIA GROUP | WARRANT CANARY
+===================================================
+Issued for : 28 May 2022.
+Last updated : 15th May 2022
+Next update on : 15th June 2022
+===================================================
+What are warrant canaries?
+https://en.wikipedia.org/wiki/Warrant_canary
+https://www.eff.org/deeplinks/2014/04/warrant-canary-faq
+===================================================
+Find our previous warrant canaries:
+https://delvesmediagroup.com/canaries
+===================================================
+Don't trust this canary blindly, verify the signature of this file!
+===================================================
+
+
+Signers
+~~~~~~~~~~~~~
+
+* Hamzah Batha: C37F 68EA 48E1 5168 8AB1 192B A7D6 B1CC 0A01 AD4C
+
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+Date and time whem this file was generated:
+
+Sat, 28 May 2022 11:33:19 +0000
+
+
+Headlines from: https://www.reutersagency.com/feed/
+
+ Aftermath of flooding in Brazil’s Amazonas state
+ People take the plunge with a shark dive in Florida
+ The moon is seen during a lunar eclipse in Los Angeles
+ Wildfire in California
+ A Swiss farmer works in his field with his tractor in Sullens
+
+
+Headlines from: https://www.theguardian.com/world/rss
+
+ Spain and Morocco feel the heat as unseasonal snow falls on Colorado
+ ‘You hear bullets, you run’: Congolese refugees stream over Uganda’s border
+ Former head of Louvre charged in Egyptian artefacts trafficking case
+ Médecins Sans Frontières apologises for using images of child rape survivor
+ Europe silent on plight of detainees in Libya, says migration chief
+
+
+
+
+Statements
+~~~~~~~~~~~~~
+
+1. We have not received any warrants.
+2. We have not been subject to a gag order.
+3. We have not been subpoenaed.
+4. We have not received a court order to cease operations.
+5. We are not being coerced, blackmailed or operating under duress.
+6. Our offices or the premises where our employees work or reside have not been raided.
+7. None of our hardware or data has been seized or destroyed by a third party.
+8. Our infrastructure or credentials have not been compromised knowingly or unknowingly to the best of our knowledge.
+9. Our operations have not been compromised.
+10. We have not received any specific orders, requests or recommendations from any authorities, whether formal or informal.
+
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+There are no announcements at this time.
+
+
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQTDf2jqSOFRaIqxGSun1rHMCgGtTAUCYpIIggAKCRCn1rHMCgGt
+TB3VAP4ivIJQiAy9UwaOBS8/FkBMd+KYIbjmyzm04etIRcs22gEA1xb0fP4jrLa/
+WTYNnlZgu9FJf1wn6ZEX+cFChfAUcAk=
+=/CEs
+-----END PGP SIGNATURE-----

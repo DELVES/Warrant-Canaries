@@ -23,7 +23,7 @@
   <p align="center">
     Warrant canaries applicable to all DELVES Media Group organisations.
     <br />
-    <a href="https://delvesmediagroup.com/"><strong>Learn more about us »</strong></a>
+    <a href="https://delvesmedia.group/"><strong>Learn more about us »</strong></a>
     <br />
 </div>
 
